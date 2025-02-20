@@ -1,5 +1,1 @@
-🎃 Authentication && Authorization with JWT
-👾 Real-time messaging with Socket.io
-🚀 Online user status
-👌 Global state management with Zustand
-🐞 Error handling both on the server and on the client
+A one-on-one real-time chat application built with the MERN stack and Socket.io. Features include user authentication, real-time messaging, online status tracking, and a responsive UI with TailwindCSS. Deployed for free with error handling and state management using Zustand.
